@@ -5,7 +5,7 @@ module.exports = {
     '**/icon/**',
     '**/__tests__/**',
     '**/style/**',
-    '**/locale/**',
+    '**/locale/**',hgkk
     '**/*-provider/**',
     '**/*.json',
   ],
